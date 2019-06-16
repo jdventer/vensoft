@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://vensoft.co.za/Webservice" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="vensoft.co.za/WebServices" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="False" userName="vensoftc" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJk8Y+g407UCy6PG9UdfmOgAAAAACAAAAAAADZgAAwAAAABAAAAB4DnseVKzyUnWIQyWTOo/UAAAAAASAAACgAAAAEAAAANTsyYdTRgnOg2dyU3IPVa8YAAAABLEf+LfxikznNODW9T6JL+q1Ls/mXnKZFAAAAPenT7R7AczkJ9JIy8ifMNkJCG5y" SelectedForPublish="True">
+    <file relUrl="WSProxy.aspx" publishTime="01/19/2013 22:13:42" />
+    <file relUrl="Web.config" publishTime="01/19/2013 18:57:27" />
+    <file relUrl="bin/Vensoft_WebServices.pdb" publishTime="01/20/2013 14:25:36" />
+    <file relUrl="WebServices/Email.asmx" publishTime="01/19/2013 18:32:31" />
+    <file relUrl="bin/Vensoft_WebServices.xml" publishTime="01/20/2013 14:25:36" />
+    <file relUrl="bin/Vensoft_WebServices.dll" publishTime="01/20/2013 14:25:36" />
+    <file relUrl="Default.htm" publishTime="01/19/2013 19:22:03" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Vensoft_WebServices
+</name>
+</assembly>
+<members>
+<member name="F:Vensoft_WebServices.WSProxy.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:Vensoft_WebServices.localhost.Email.#ctor">
+	<remarks/>
+</member><member name="E:Vensoft_WebServices.localhost.Email.CallEmailCompleted">
+	<remarks/>
+</member><member name="M:Vensoft_WebServices.localhost.Email.CallEmail(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:Vensoft_WebServices.localhost.Email.CallEmailAsync(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:Vensoft_WebServices.localhost.Email.CallEmailAsync(System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Vensoft_WebServices.localhost.Email.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Vensoft_WebServices.localhost.Email">
+	<remarks/>
+</member><member name="T:Vensoft_WebServices.localhost.CallEmailCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Vensoft_WebServices.localhost.CallEmailCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Vensoft_WebServices.localhost.CallEmailCompletedEventArgs">
+	<remarks/>
+</member><member name="P:Vensoft_WebServices.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:Vensoft_WebServices.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Vensoft_WebServices.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Vensoft_WebServices.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Vensoft_WebServices.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Vensoft_WebServices.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:Vensoft_WebServices.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:Vensoft_WebServices.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

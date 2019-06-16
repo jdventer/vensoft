@@ -1,0 +1,10 @@
+C:\Users\jdventer\Documents\Visual Studio 2010\Projects\Vensoft_WebServices\Vensoft_WebServices\bin\Vensoft_WebServices.dll
+C:\Users\jdventer\Documents\Visual Studio 2010\Projects\Vensoft_WebServices\Vensoft_WebServices\bin\Vensoft_WebServices.pdb
+C:\Users\jdventer\Documents\Visual Studio 2010\Projects\Vensoft_WebServices\Vensoft_WebServices\bin\Vensoft_WebServices.xml
+C:\Users\jdventer\Documents\Visual Studio 2010\Projects\Vensoft_WebServices\Vensoft_WebServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jdventer\Documents\Visual Studio 2010\Projects\Vensoft_WebServices\Vensoft_WebServices\obj\Debug\Vensoft_WebServices.Resources.resources
+C:\Users\jdventer\Documents\Visual Studio 2010\Projects\Vensoft_WebServices\Vensoft_WebServices\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jdventer\Documents\Visual Studio 2010\Projects\Vensoft_WebServices\Vensoft_WebServices\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jdventer\Documents\Visual Studio 2010\Projects\Vensoft_WebServices\Vensoft_WebServices\obj\Debug\Vensoft_WebServices.dll
+C:\Users\jdventer\Documents\Visual Studio 2010\Projects\Vensoft_WebServices\Vensoft_WebServices\obj\Debug\Vensoft_WebServices.xml
+C:\Users\jdventer\Documents\Visual Studio 2010\Projects\Vensoft_WebServices\Vensoft_WebServices\obj\Debug\Vensoft_WebServices.pdb
